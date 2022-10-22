@@ -1,4 +1,4 @@
-# Lareact Movie App
+# Lareact Movie Test
 This application is aimed at building a movie app which allows users create a and add any movie of their choice to the list 
 
 
